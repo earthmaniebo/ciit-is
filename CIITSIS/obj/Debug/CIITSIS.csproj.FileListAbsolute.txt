@@ -1,0 +1,12 @@
+D:\VisualStudioProjects\CIITSIS\CIITSIS\bin\Debug\CIITSIS.exe.config
+D:\VisualStudioProjects\CIITSIS\CIITSIS\bin\Debug\CIITSIS.exe
+D:\VisualStudioProjects\CIITSIS\CIITSIS\bin\Debug\CIITSIS.pdb
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.csprojResolveAssemblyReference.cache
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.Form1.resources
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.Login.resources
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.Properties.Resources.resources
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.StudentList.resources
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.csproj.GenerateResource.Cache
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.exe
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.pdb
+D:\VisualStudioProjects\CIITSIS\CIITSIS\obj\Debug\CIITSIS.MainForm.resources
